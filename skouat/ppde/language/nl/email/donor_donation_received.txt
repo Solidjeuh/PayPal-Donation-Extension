@@ -1,0 +1,23 @@
+Subject: Nieuwe donatie notificatie  - "{SITENAME}"
+
+Hallo {USERNAME},
+
+Uw donatie aan "{SITE NAME}" werd ontvangen.
+
+Informatie over uw donatie:
+
+----------------------------
+Transactie ID: {TXN_ID}
+
+Afzender: {PAYER_USERNAME} ({PAYER_EMAIL})
+
+Donatie bedrag: {MC_GROSS}
+Bedrag ontvangen door "{SITE NAME}": <!-- IF SETTLE_AMOUNT !== '' -->{SETTLE_AMOUNT}<!-- ELSE -->{NET_AMOUNT}<!-- ENDIF -->
+
+----------------------------
+
+Als u niet langer een donatie wilt ontvangen wanneer u een donatie doet, werkt u hier uw notificaties instellingen bij:
+
+{U_NOTIFICATION_SETTINGS}
+
+{EMAIL_SIG}
