@@ -47,13 +47,13 @@ $lang = array_merge($lang, array(
 	'PPDE_DC_ISO_CODE'         => 'ISO 4217 code',
 	'PPDE_DC_ISO_CODE_EXPLAIN' => 'Alfabetische code van de valuta.<br>Voor meer informatie over ISO 4217, raadpleeg de <a href="https://www.phpbb.com/customise/db/mod/paypal_donation_mod/faq/f_746" title="PayPal Donation MOD FAQ">PayPal Donatie MOD FAQ</a> (externe link).',
 	'PPDE_DC_NAME'             => 'Valuta naam',
-	'PPDE_DC_NAME_EXPLAIN'     => 'Naam van de valuta.<br>(i.e. Euro).',
+	'PPDE_DC_NAME_EXPLAIN'     => 'Naam van de valuta.<br>(bijv. Euro).',
 	'PPDE_DC_POSITION'         => 'Positie van de valuta',
-	'PPDE_DC_POSITION_EXPLAIN' => 'Bepaal waar het valutasymbool wordt gepositioneerd ten opzichte van het weergegeven bedrag.<br>vb: <strong>€20</strong> of <strong>15€</strong>.',
+	'PPDE_DC_POSITION_EXPLAIN' => 'Bepaal waar het valutasymbool wordt gepositioneerd ten opzichte van het weergegeven bedrag.<br>bijv. <strong>€20</strong> of <strong>15€</strong>.',
 	'PPDE_DC_POSITION_LEFT'    => 'Links',
 	'PPDE_DC_POSITION_RIGHT'   => 'Rechts',
 	'PPDE_DC_SYMBOL'           => 'Valuta symbool',
-	'PPDE_DC_SYMBOL_EXPLAIN'   => 'Bepaal het valutasymbool.<br>vb: <strong>$</strong> voor U.S. Dollar, <strong>€</strong> voor Euro.',
+	'PPDE_DC_SYMBOL_EXPLAIN'   => 'Bepaal het valutasymbool.<br>bijv. <strong>$</strong> voor U.S. Dollar, <strong>€</strong> voor Euro.',
 ));
 
 /**
