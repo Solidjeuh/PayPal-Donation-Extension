@@ -42,7 +42,7 @@ $lang = array_merge($lang, array(
 
 	'PPDE_ESI'                  => 'Extensie en systeeminformatie',
 	'PPDE_ESI_DETECTED'         => 'Gedetecteerd',
-	'PPDE_ESI_INSTALL_DATE'     => 'Installeer de datum van <strong>%s</strong>',
+	'PPDE_ESI_INSTALL_DATE'     => 'Installatiedatum <strong>%s</strong>',
 	'PPDE_ESI_MORE_INFORMATION' => 'Meer informatie…',
 	'PPDE_ESI_NOT_DETECTED'     => 'Niet gedetecteerd',
 	'PPDE_ESI_RESYNC_OPTIONS'   => 'Reset de extensie en systeeminformatie of pas deze opnieuw aan',
